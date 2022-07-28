@@ -1,0 +1,12 @@
+.firstClick, .secondClick{
+    font-size: 28px;
+    font-family: "Helvetic", 'Times New Roman',sans-serif;
+
+}
+.firstClick{
+    background-color: black;
+    color: white;
+}
+.secondClick{
+    background-color: yellow;
+}
